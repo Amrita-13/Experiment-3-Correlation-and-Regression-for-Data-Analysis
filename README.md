@@ -101,7 +101,8 @@ colab link:https://colab.research.google.com/drive/1eKNC1SJ6J7Lzc2V6tmghMMBM1k7H
 Enter x values (space separated): 25 28 35 32 31 36 29 38 34 32
 Enter y values (space separated): 43 46 49 41 36 32 31 30 33 39
 The Correlation coefficient is -0.394
-The Regression line Y on X is ::: y = 38.000 + -0.664 (x-32.000)```
+The Regression line Y on X is ::: y = 38.000 + -0.664 (x-32.000)
+```
 <img width="715" height="535" alt="Screenshot 2025-11-17 141936" src="https://github.com/user-attachments/assets/373a99f0-c382-464b-be2d-5687664dfa9e" />
 
 
